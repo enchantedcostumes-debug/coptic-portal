@@ -1,0 +1,25 @@
+{
+  "total_words": 1555,
+  "divine_words": 759,
+  "prime_words": 267,
+  "categories": {
+    "core": 1555
+  },
+  "patterns": {
+    "unity": 1,
+    "pure_prime": 267,
+    "prime_times_2": 172,
+    "prime_power": 25,
+    "composite": 732,
+    "divine_7": 194,
+    "divine_13": 100,
+    "divine_19": 64
+  },
+  "gematria_min": 1,
+  "gematria_max": 1000,
+  "alphabet_size": 31,
+  "language": "Coptic",
+  "script": "Coptic Alphabet (modified Greek)",
+  "era": "200 - 1600 CE (liturgical to present)",
+  "family": "Afro-Asiatic (Egyptian)"
+}
